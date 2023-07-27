@@ -6,3 +6,5 @@
 ![image](https://github.com/RanieryAV/Algoritmo-genetico-problema-do-caixeiro-viajante/assets/58216614/7a3ac22d-d7e1-471a-a4a2-db4ffe812d82)
 
 ## O algoritmo deve exibir o melhor caminho encontrado e o seu custo de percurso.
+
+### Neste repositório há três arquivos importantes: o código-fonte principal (chamado "algoritmo_genetico_caixeiro_viajante.m"), um código-fonte que contém a função de inicialização usada no código principal (nomeada "inicializar.m") e a matriz das cidades em um arquivo de texto (cujo nome é "matriz_dados.txt").
